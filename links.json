@@ -1,15 +1,18 @@
 {
     // B1_02 软件环境部署 → "机智罗的仓库" 标签页
-    // 用户点击此标签页时打开的网盘链接（ROCm 预编译包、驱动等）
-    "repo_jzl":       "https://pan.quark.cn/s/783d61d6940c",
+    "repo_jzl":       "https://pan.quark.cn/s/cf7e6d5f1b2b",
 
     // B0 本地全局设置 → "获取便携版包" 按钮
-    // 一键下载完整 ComfyUI+ROCm 环境一键部署包
     "repo_portable":  "https://pan.quark.cn/s/3d212a90e4bc",
 
     // C0 工作流管理 → "下载高质量工作流" 按钮
-    // AMD 显卡优化工作流合集下载
-    "repo_workflows": "https://pan.quark.cn/s/6ecc80e10581",
+    "repo_workflows": "https://pan.quark.cn/s/44fd715d56c6",
+
+    // C0 工作流管理 → "前往夸克下载模型" 按钮
+    "repo_models_quark": "https://pan.quark.cn/s/7fbd5736302e",
+
+    // C0 工作流管理 → "前往百度下载模型" 按钮
+    "repo_models_baidu": ""
 
     "remote_version": "V0.6.26_beta",
     "version_video": "https://www.bilibili.com/video/BV19y7J6REWi/"
