@@ -14,9 +14,9 @@
     // C0 工作流管理 → "前往百度下载模型" 按钮
     "repo_models_baidu": "",
 
-    "xb_toolbox_version": "0.7.28",
+    "xb_toolbox_version": "0.10.06",
 
-    "remote_version": "Nvidia1.0.0",
+    "remote_version": "Nvidia1.0.5",
     
-    "version_video": "https://www.bilibili.com/video/BV1GuYE6REFi"
+    "version_video": "https://www.bilibili.com/video/BV1WGp26cEXL"
 }
